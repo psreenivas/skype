@@ -11,4 +11,10 @@ pavani
 mahesh
 ravani
 maheswari
+<<<<<<< HEAD
+=======
+venky 
+lakshmmi
+
+>>>>>>> devops
 
